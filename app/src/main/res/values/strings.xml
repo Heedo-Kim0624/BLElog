@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BLEtest</string>
+    <string name="share_rssi_history">Share Session History</string>
+    <string name="share_not_available">No app available to share the CSV.</string>
+    <string name="export_no_data">No session events recorded yet.</string>
+    <string name="export_failed">Failed to create export file.</string>
+    <string name="ble_notification_channel">BLE background session</string>
+    <string name="ble_notification_title">BLE Companion Active</string>
+    <string name="ble_notification_initial">Preparing Bluetooth session...</string>
+    <string name="ble_notification_connected">Connected to %1$s</string>
+    <string name="ble_notification_reconnecting">Reconnecting to device...</string>
+    <string name="ble_notification_scanning">Scanning in background</string>
+    <string name="ble_notification_advertising">Advertising in background</string>
+    <string name="ble_notification_scanning_advertising">Advertising and scanning in background</string>
+    <string name="ble_notification_automation">Monitoring connection in background</string>
+    <string name="ble_notification_idle">Background service idle</string>
+    <string name="history_title">History exports</string>
+    <string name="history_empty">Exports will appear here after you disconnect.</string>
+    <string name="history_share">Share</string>
+    <string name="history_path">Path: %1$s</string>
+    <string name="history_last_modified">Saved %1$s</string>
+    <string name="history_size">Size: %1$s</string>
+    <string name="history_close">Close</string>
+    <string name="history_events_title">Session events</string>
+    <string name="history_events_empty">Event history will appear after activity.</string>
+    <string name="auto_reconnect_active">Auto reconnect active</string>
+    <string name="auto_reconnecting">Attempting to reconnect...</string>
+    <string name="device_name_save">Save</string>
+    <string name="device_list_clear">Clear devices</string>
+    <string name="name_saved">Device name saved.</string>
+    <string name="devices_cleared">Device list cleared. Continue scanning to rediscover devices.</string>
+    <string name="devices_clear_connected">Disconnect from the current device before clearing the list.</string>
+    <string name="clear_devices_disabled">Disconnect first to clear the list.</string>
+</resources>
